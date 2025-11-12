@@ -155,5 +155,13 @@ ul li a.active{
     padding: 5px 10px;
 }
 
+footer {
+  background-color: #aaab86;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
 .github-link:hover { text-decoration: underline; }
+
 
